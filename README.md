@@ -1,4 +1,5 @@
-# company-spring-rest (available in 34.230.90.186 until 21/06/2018:23:59 UTC)
+# company-spring-rest 
+(deployed in 34.230.90.186:8080 until 21/06/2018:23:59 UTC)
 
 #### Get all companies
 ~~~~
